@@ -1,4 +1,4 @@
-#Simple Tests for RegioJet system
+# Simple Tests for RegioJet system
 
 Base UI and API tests
 
@@ -11,11 +11,11 @@ Used:
 
 Update appropriate settings in the config file ``reference.conf`` if it needs to change base domain URLs
 
-##How to run
+## How to run
 - Using IDE
 - [Or] using command line from the root project directory: ```./gradlew test```
 
-##Test Report
+## Test Report
 Allure report can be used to generate test report with tests results
 
 To generate and open a report with tests results:
